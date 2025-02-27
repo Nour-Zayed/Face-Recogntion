@@ -1,4 +1,4 @@
-![Screenshot (142)](https://github.com/user-attachments/assets/7932b051-ca57-4c41-9c21-ac5bc94b1341)# Face-Recogntion
+# Face-Recogntion
 
 This project implements a real-time face recognition system using Computer Vision and Deep Learning. The system is capable of detecting and recognizing faces in real-time using a webcam, as well as from images and video files. The project leverages OpenCV, dlib, and the face_recognition library to accurately detect, encode, and identify faces.
 
